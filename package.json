@@ -1,0 +1,36 @@
+{
+  "name": "mansoor-riaz-portfolio",
+  "version": "1.0.0",
+  "description": "Mansoor Riaz - Full-Stack Software Engineer Portfolio with modern animations and responsive design",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "echo 'Deploy to Vercel: vercel --prod'"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack",
+    "software-engineer",
+    "react",
+    "nodejs",
+    "flutter",
+    "unity",
+    "game-development",
+    "web-development",
+    "mobile-development"
+  ],
+  "author": "Mansoor Riaz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MansoorRiaz/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MansoorRiaz/portfolio/issues"
+  },
+  "homepage": "https://mansoor-riaz-portfolio.vercel.app",
+  "devDependencies": {},
+  "dependencies": {}
+}
